@@ -24,3 +24,7 @@ A computer vision project to detect road lane lines from images and videos using
 ### 🔧 Run using Python
 ```bash
 python lane_detection.py
+```
+### 🔧 Run using Streamlit
+```bash
+streamlit run app.py
